@@ -78,6 +78,7 @@ BankUIDelegate <|.. ViewController
     - UI와, Constraint를 코드로 작성하여 Autolayout을 적용시키는 법을 배웠습니다.
     - main thread에서 처리해야할 일과 global에서 처리해야할일의 차이, semaphore의 활용등을 배웠습니다.
     - protocol을 활용하여 SOLID 규칙을 지키려고 노력해보았고, 어떻게 해야 할 지 방향을 잡을 수 있게 된것같습니다.
+    - 아직 완벽하게 동시성 프로그래밍과 관련하여 이해가 되지 않은 것 같아서, 이 부분에 대한것과 protocol과 completionHandler의 사용법에 대해서 조금 더 학습을 진행해야겠다고 생각했습니다.
  
 
 ### 참고내용
